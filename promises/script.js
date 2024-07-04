@@ -1,15 +1,17 @@
-let t = new Promise((resolve, reject) => {
-    let a = 1 + 1
-    if (a == 2) {
-        resolve("Fine")
+let valuePromise = new Promise ((resolve, reject) => {
+
+    let value = 60;
+
+    if (value > 30) {
+        resolve('value is acceptable')
     } else {
-        reject('Fail')
+        reject('value cannot be accepted')
     }
 })
 
 
-t.then((message) => {
-    console.log ('this is the then text ' + message)
-}).catch((message) => {
-    console.log('this is not  good ' + message)
+valuePromise.then((message)=>{
+    console.log(message)
+}).catch((message)=>{
+    console.log(message)
 })
