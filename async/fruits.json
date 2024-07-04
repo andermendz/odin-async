@@ -1,0 +1,64 @@
+{
+    "fruits": [
+        {
+            "name": "Apple",
+            "color": "Red",
+            "weight": 150,
+            "season": "Autumn"
+        },
+        {
+            "name": "Banana",
+            "color": "Yellow",
+            "weight": 120,
+            "season": "All year"
+        },
+        {
+            "name": "Cherry",
+            "color": "Red",
+            "weight": 5,
+            "season": "Summer"
+        },
+        {
+            "name": "Date",
+            "color": "Brown",
+            "weight": 7,
+            "season": "Autumn"
+        },
+        {
+            "name": "Elderberry",
+            "color": "Purple",
+            "weight": 1,
+            "season": "Summer"
+        },
+        {
+            "name": "Fig",
+            "color": "Purple",
+            "weight": 50,
+            "season": "Summer"
+        },
+        {
+            "name": "Grape",
+            "color": "Green",
+            "weight": 5,
+            "season": "Autumn"
+        },
+        {
+            "name": "Honeydew",
+            "color": "Green",
+            "weight": 1000,
+            "season": "Summer"
+        },
+        {
+            "name": "Indian Fig",
+            "color": "Green",
+            "weight": 400,
+            "season": "Summer"
+        },
+        {
+            "name": "Jackfruit",
+            "color": "Green",
+            "weight": 10000,
+            "season": "Summer"
+        }
+    ]
+}
